@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a folder .git containing hash data for revision control of tracked files. We need to do it in order to initialize the repo.
