@@ -17,3 +17,7 @@ Adding new features, solving a bug or testing experimental behaviors. They will 
 How do the diagrams help you visualize the branch structure?
 
 Avoiding unreachable commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The current branch and the branches that have been merged are ordered by date of commit (not parent) and reflected in the checkout branched. git log --graph --oneline <branches>
