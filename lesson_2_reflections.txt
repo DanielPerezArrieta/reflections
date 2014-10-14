@@ -5,3 +5,15 @@ It creates a folder .git containing hash data for revision control of tracked fi
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area holds files which we want to keep track and repository holds history of commits about these files changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By applying git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Adding new features, solving a bug or testing experimental behaviors. They will separate the actual behavior to the changes made for these purposes. So nothing will be changes for the current behaviour.
+
+How do the diagrams help you visualize the branch structure?
+
+Avoiding unreachable commits
