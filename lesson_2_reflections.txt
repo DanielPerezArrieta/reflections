@@ -21,3 +21,10 @@ Avoiding unreachable commits
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The current branch and the branches that have been merged are ordered by date of commit (not parent) and reflected in the checkout branched. git log --graph --oneline <branches>
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+Pros: good approach for simplicity and swiftness Cons: Not always enough machine learning to avoiding conflicts. 
+
