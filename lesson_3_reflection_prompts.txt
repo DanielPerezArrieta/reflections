@@ -13,3 +13,8 @@ Branches are git resources/implementation of pointers to commits. Clone is a cop
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 As far as I could understand on having locally remote state (fetching), the benefit would be to look on the differences before merging. Being able to anticipate undesired changes/behaviour and branch them out to play with them.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Of course if a team must work on a project and has no way to work with git and github, other revision control software should be provided for the sake of success. I see it impossible to work with a team of 10 people not having any versioning software. Easier would be separate functionality which has no common files relationships. Harder way would be to collaborate on a inch of common files.
+
