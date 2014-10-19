@@ -1,10 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-When a project is accomplished by a Team or when I intendedly want to share it, for any reason, publicly.
+When a project is accomplished by a Team or when I intendedly want to share it, for any (collaborative) reason, publicly.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-As to my sense of use of sharing a project, I'd rather prefer to control the fetching process.
+As to my sense of use sharing a project, I'd rather prefer to control the fetching process.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
@@ -16,7 +16,7 @@ As far as I could understand on having locally remote state (fetching), the bene
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-Of course if a team must work on a project and has no way to work with git and github, other revision control software should be provided for the sake of success. I see it impossible to work with a team of 10 people not having any versioning software. Easier would be separate functionality which has no common files relationships. Harder way would be to collaborate on a bunch of common files.
+Of course if a team must work on a project and has no way to work with git and github, other revision control software should be provided for the sake of success. I see it impossible to work with a team of 10 people not having any versioning software. Easier would be separate functionality, namely, which has no common files. Harder way would be to collaborate on a bunch of common files.
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
