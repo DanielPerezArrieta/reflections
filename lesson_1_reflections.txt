@@ -6,7 +6,7 @@ was introduced?
 How could having easy access to the entire history of a file make you a better
 programmer in the long term?
 
-    By observing common error patterns and other issues that can be improved when one is conscious about it 
+    By observing common error patterns and other issues that can be improved when one is aware about it 
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
