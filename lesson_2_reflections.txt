@@ -12,7 +12,7 @@ By applying git diff --staged
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-Adding new features, solving a bug or testing experimental behaviors. They will separate the actual behavior to the changes made for these purposes. So nothing will be changed for the current behaviour.
+Adding new features, solving a bug or testing experimental behaviors. They will separate the actual behavior to the changes made for these purposes. So nothing will be changed for the current (master) behaviour.
 
 How do the diagrams help you visualize the branch structure?
 
