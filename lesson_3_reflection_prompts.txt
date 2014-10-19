@@ -16,5 +16,8 @@ As far as I could understand on having locally remote state (fetching), the bene
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-Of course if a team must work on a project and has no way to work with git and github, other revision control software should be provided for the sake of success. I see it impossible to work with a team of 10 people not having any versioning software. Easier would be separate functionality which has no common files relationships. Harder way would be to collaborate on a inch of common files.
+Of course if a team must work on a project and has no way to work with git and github, other revision control software should be provided for the sake of success. I see it impossible to work with a team of 10 people not having any versioning software. Easier would be separate functionality which has no common files relationships. Harder way would be to collaborate on a bunch of common files.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To isolate production from testing purposes. Making changes directly in master branch lets avoid merging conflicts and eases the process but, still, it does not isolates production from arising bugs due to functionality that could not be tested in advanced.
